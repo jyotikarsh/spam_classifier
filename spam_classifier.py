@@ -361,22 +361,3 @@ y_pred = log_clf.predict(X_test_transformed)
 
 print("Precision: {:.2f}%".format(100 * precision_score(y_test, y_pred)))
 print("Recall: {:.2f}%".format(100 * recall_score(y_test, y_pred)))
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
